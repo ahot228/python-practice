@@ -1,1 +1,1 @@
-![Tests](https://github.com/<username>/auto-test-python-app/actions/workflows/python-tests.yml/badge.svg)
+![Tests](https://github.com/ahot228/auto-test-python-app/actions/workflows/python-tests.yml/badge.svg)
