@@ -1,0 +1,1 @@
+![Tests](https://github.com/<username>/auto-test-python-app/actions/workflows/python-tests.yml/badge.svg)
