@@ -1,0 +1,11 @@
+student_id,name,math_score,science_score,grade
+S001,Ava,85,90,A
+S002,Liam,78,80,B
+S003,Olivia,95,,
+S004,Noah,invalid,88,A
+S005,Emma,65,70,C
+S006,Oliver,85,85,B
+S007,Elijah,105,95,A
+S008,Charlotte,70,,C
+S009,Mason,85,85,B
+S010,Luna,,90,A

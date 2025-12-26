@@ -1,0 +1,11 @@
+id,name,age,salary
+1,John Doe,29,50000
+2,Jane Smith,,55000
+3,Alan Brown,34,not_available
+4,Susan Clark,150,62000
+5,Michael Lee,40,58000
+6,John Doe,29,50000
+7,Linda Harris,-5,61000
+8,,33,54000
+9,Robert Young,28,
+10,David Wilson,31,900000

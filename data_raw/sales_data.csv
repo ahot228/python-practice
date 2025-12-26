@@ -1,0 +1,11 @@
+order_id,customer,region,units_sold,revenue
+1001,Alice,North,5,250
+1002,Bob,South,8,480
+1003,Charlie,West,10,NaN
+1004,David,East,5,200
+1005,Eva,South,12,720
+1006,Bob,South,8,480
+1007,Frank,North,,300
+1008,Gina,East,7,350
+1009,Helen,West,100,99999
+1010,Ian,South,9,NaN
